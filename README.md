@@ -82,3 +82,9 @@ cd ddos-visualiser
   To see arcs immediately, a small block in startup_event seeds fake attack events on startup.
   You can remove this once you hook it up to real logs.
 ```
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** – see the [`LICENSE`](LICENSE) file for details.
