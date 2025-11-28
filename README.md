@@ -73,3 +73,12 @@ ddos-visualiser/
 ```bash
 git clone https://github.com/<your-username>/ddos-visualiser.git
 cd ddos-visualiser
+```
+
+---
+
+##  🧪 Fake Data for Demo
+```
+  To see arcs immediately, a small block in startup_event seeds fake attack events on startup.
+  You can remove this once you hook it up to real logs.
+```
