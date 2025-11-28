@@ -32,4 +32,6 @@ ddos-visualiser/
 
 # 🌐 Live DDoS Attack Map Visualizer
 
-![Project preview](assets/globe-project-ezgif.com-video-to-gif-converter.gif)
+<p align="center">
+  <img src="assets/globe-project-ezgif.com-video-to-gif-converter.gif" alt="Project preview" width="200">
+</p>
