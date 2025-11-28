@@ -27,3 +27,9 @@ A defensive **DDoS attack map** that shows suspicious IPs as arcs on a 3D globe,
 ddos-visualiser/
   backend/   # FastAPI app, ML, GeoIP, AbuseIPDB integration
   frontend/  # Next.js app with Aceternity GitHub Globe
+
+
+
+# 🌐 Live DDoS Attack Map Visualizer
+
+![Project preview](assets/globe-project-ezgif.com-video-to-gif-converter.gif)
