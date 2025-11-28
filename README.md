@@ -35,3 +35,41 @@ ddos-visualiser/
 <p align="center">
   <img src="assets/globe-project-ezgif.com-video-to-gif-converter.gif" alt="Project preview" width="200">
 </p>
+
+---
+
+## 🧱 Tech Stack
+
+### Backend
+
+- **Python 3**
+- **FastAPI** – REST API
+- **Uvicorn** – ASGI server
+- **Pydantic / pydantic-settings** – settings & data models
+- **geoip2** – IP → latitude/longitude (MaxMind GeoLite2)
+- **httpx** – async HTTP client (AbuseIPDB, etc.)
+- **scikit-learn** (optional) – DDoS confidence scoring model
+- **joblib** (optional) – model persistence
+
+### Frontend
+
+- **Next.js** (React)
+- **TypeScript**
+- **Tailwind CSS**
+- **Aceternity UI GitHub Globe** (Three.js + `three-globe`)
+- **@react-three/fiber**, **@react-three/drei** – React bindings for Three.js
+
+---
+
+## ⚙️ Getting Started (Local)
+
+> Prereqs:  
+> – Python 3.x  
+> – Node.js + npm  
+> – (Optional) MaxMind GeoLite2 database, AbuseIPDB key
+
+### 1. Clone the repo
+
+```bash
+git clone https://github.com/<your-username>/ddos-visualiser.git
+cd ddos-visualiser
